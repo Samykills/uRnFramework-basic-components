@@ -1,0 +1,30 @@
+{
+  "name": "uRnFramework-basic-components",
+  "version": "1.0.0",
+  "description": "Set of components to be used throught the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "basic-components",
+    "react-native-basic-components"
+  ],
+  "author": {
+    "name": "Ullas Gupta",
+    "email": "ullas.g@smartenspaces.com"
+  },
+  "license": "SS",
+  "deprecated": false,
+  "dependencies": {
+    "apisauce": "1.0.1",
+    "prop-types": "15.6.2",
+    "moment-timezone": "0.5.21",
+    "react-native-dimension": "1.0.6"
+  },
+  "peerDependencies": {
+    "react": "16.3.1",
+    "react-native": "0.55.4"
+  }
+}
