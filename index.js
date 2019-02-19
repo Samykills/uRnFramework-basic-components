@@ -14,6 +14,8 @@ import LocationService from "./lib/location/locationService";
 import SSCAnimations from "./lib/animations/index";
 import PermissionAccess from "./lib/permissions/permissionAccess";
 import PermissionConstant from "./lib/constants/permissionConst";
+import MessageConstants from "./lib/constants/messageConstants";
+import ErrorConstants from "./lib/constants/errorConstants";
 
 export {
   HttpClient,
@@ -31,5 +33,7 @@ export {
   LocationService,
   SSCAnimations,
   PermissionAccess,
-  PermissionConstant
+  PermissionConstant,
+  MessageConstants,
+  ErrorConstants
 };
